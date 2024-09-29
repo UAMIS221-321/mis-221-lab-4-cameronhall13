@@ -1,0 +1,15 @@
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.AssemblyInfoInputs.cache
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.AssemblyInfo.cs
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.csproj.CoreCompileInputs.cache
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.sourcelink.json
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\bin\Debug\net8.0\mis-221-lab-4-cameronhall13.exe
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\bin\Debug\net8.0\mis-221-lab-4-cameronhall13.deps.json
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\bin\Debug\net8.0\mis-221-lab-4-cameronhall13.runtimeconfig.json
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\bin\Debug\net8.0\mis-221-lab-4-cameronhall13.dll
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\bin\Debug\net8.0\mis-221-lab-4-cameronhall13.pdb
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.dll
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\refint\mis-221-lab-4-cameronhall13.dll
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.pdb
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\mis-221-lab-4-cameronhall13.genruntimeconfig.cache
+C:\Users\camha\Downloads\mis221\labs\mis-221-lab-4-cameronhall13\obj\Debug\net8.0\ref\mis-221-lab-4-cameronhall13.dll
